@@ -13,7 +13,7 @@
 	composer require dompdf/dompdf
 
 3- Comprova que s'han creat els fitxers i carpetes:
-	
+
 	vendor/
 	vendor/autoload.php
 	composer.json
